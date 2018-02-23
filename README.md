@@ -3,4 +3,6 @@ This contains the Mathematica calculations cited in *A core-halo pattern of entr
 
 This respository contains a Mathematica notebook ("Calculations...") which does the calculations and creates the figures, and a data file.  The data file should be saved in the directory from which your Mathematica reads files in order for the notebook to work.
 
+If not already set up, you will need to configure MaTeX - see http://szhorvat.net/pelican/latex-typesetting-in-mathematica.html
+
 The notebook and data sheet were built in Mathematica 11.1.1.0
