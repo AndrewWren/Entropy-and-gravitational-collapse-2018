@@ -5,4 +5,4 @@ This respository contains a Mathematica notebook ("Calculations...") which does 
 
 If not already set up, you will need to configure MaTeX - see http://szhorvat.net/pelican/latex-typesetting-in-mathematica.html
 
-The notebook and data sheet were built in Mathematica 11.1.1.0
+The notebook and data sheet were built in Mathematica 11.1.1.0 for Windows - and may or may not fully work in other versions.  It is possible to re-install 11.1.1.0
