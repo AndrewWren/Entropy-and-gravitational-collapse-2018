@@ -1,5 +1,5 @@
 # Entropy-and-gravitational-collapse-2018
-This contains the Mathematica calculations cited in *A core-halo pattern of entropy creation in gravitational collapse*, Andrew J. Wren, MNRAS 477(3), 3983-4008 (2018), https://doi.org/10.1093/mnras/sty786 .  All the paper's figures are also generated.
+This contains the Mathematica calculations cited in *A core-halo pattern of entropy creation in gravitational collapse*, Andrew J. Wren, MNRAS 477(3), 3983-4008 (2018), https://doi.org/10.1093/mnras/sty786 and [arxiv: 1706.03487](https://arxiv.org/abs/1706.03487). All the paper's figures are also generated.
 
 This respository contains a Mathematica notebook ("Calculations...") which does the calculations and creates the figures, together with a data file.  The data file should be saved in the directory from which your Mathematica reads files in order for the notebook to work.
 
